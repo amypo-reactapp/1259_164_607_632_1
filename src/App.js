@@ -6,7 +6,7 @@ import HelloWorld from './HelloWorld';
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
+      <h1>Sena</h1>
       <HelloWorld /> {/* Render the HelloWorld component */}
     </div>
   );
